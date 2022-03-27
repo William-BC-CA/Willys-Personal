@@ -1,0 +1,47 @@
+body {font-family: Georgia, 'Times New Roman', serif;
+    background-color: #F1F1F1;
+    color: black;
+    background-image: url("images/skyweb.jpg");
+    /* background-repeat: no-repeat; */
+    }
+
+/* h1 {background-image: url("images/logo.gif");
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 150px;
+    background-repeat: no-repeat;
+    
+} */
+h2, h3, h4, h5, h6 {font-family: Arial, Helvetica, sans-serif;
+                        background-color: #D52C1F;
+                        color: white;
+                        }
+
+#center {margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        background-color: white;
+        }
+
+
+nav a{text-decoration: none;
+    /* background-color: black; */
+    /* background-color: #C67A4A; */
+            }
+
+ol, ul {color: black;
+    }
+
+p {color: black;
+    }
+
+header {background-image: url("images/logo.gif");
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 130px;
+    font-size: 20px;
+    }
+/* footer { background-image: url("images/animated.gif");
+} */
+
+
